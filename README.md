@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/Qt6Yb4Gm/WgYIPblo.gif"/><br>
+  <img src="https://i.postimg.cc/VNxNLJbp/iusIL3Uo.gif"/><br>
 Beautiful Scrollbar customizer for Bootstrap &amp; HTML5 Page<br>
   </p>
   
