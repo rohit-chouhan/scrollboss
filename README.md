@@ -38,6 +38,7 @@ scrollboss.apply({
 
 
 ## Complete Code Example
+Live Try => https://jsfiddle.net/8o7hgct9/
 ```html
 <html>
     <head>
