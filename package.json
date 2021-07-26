@@ -1,0 +1,23 @@
+{      
+ "name": "@rohit-chouhan/scrollboss.js",                                    
+ "version": "1.0.0",                                                    
+ "description": "Beautiful Scrollbar customizer for Bootstrap & HTML5 Page.",                             
+ "main": "scrollboss.js",                                                
+ "scripts": {                                                             
+   "test": "echo \"Error: no test specified\" && exit 1"              
+ },                                                                         
+ "keywords": [                                                            
+  "js","bootstrap","scollbar","scroll","javascript"                                                                 
+ ],                                                                         
+ "author": "Rohit Chouhan",                                             
+ "license": "MIT License",                                                      
+ "repository": {                                                         
+    "type": "git",                                                     
+     "url": "git+https://github.com/rohit-chouhan/scrollboss.git"          
+ },                                                                         
+ "bugs": {                                                               
+    "url": "https://github.com/rohit-chouhan/scrollboss/issues"           
+ },                                                                        
+  "homepage": "https://github.com/rohit-chouhan/scrollboss#readme",      
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }    
+ }
