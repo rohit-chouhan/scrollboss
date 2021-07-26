@@ -10,7 +10,10 @@ powered by <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/
   ```html
 <script src="https://cdn.jsdelivr.net/gh/rohit-chouhan/scrollboss/scrollboss.js"></script>
 ```
-
+or
+  ```html
+<script src="https://cdn.jsdelivr.net/npm/scrollboss/scrollboss.js"></script>
+```
         
 ## Usage
 
