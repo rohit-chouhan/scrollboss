@@ -1,6 +1,7 @@
 
 <p align="center">
   <img src="https://i.postimg.cc/VNxNLJbp/iusIL3Uo.gif"/><br>
+   <img width="600" src="https://ps.w.org/advanced-scrollbar/assets/banner-772x250.png?rev=2481267"/><br>
 Beautiful Scrollbar customizer for Bootstrap &amp; HTML5 Page<br>
   </p>
   
@@ -14,7 +15,6 @@ or
   ```html
 <script src="https://cdn.jsdelivr.net/npm/scrollboss/scrollboss.js"></script>
 ```
-        
 ## Usage
 
 |Object|Descpription|
