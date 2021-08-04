@@ -15,6 +15,12 @@ or
   ```html
 <script src="https://cdn.jsdelivr.net/npm/scrollboss/scrollboss.js"></script>
 ```
+
+### Compatible Browser
+|<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png">|<img width="80" src="https://i.redd.it/elm050ng2kv41.jpg">|<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png">|<img width="80" src="https://logos-download.com/wp-content/uploads/2016/03/Opera_logo_icon.png">|<img width="80" src="http://guiadeinternet.com/files/2011/11/Internet_Explorer_9.png">|
+|-|-|-|-|-|
+|<p align="center">![](https://img.shields.io/badge/-Yes-green)</p>|<p align="center">![](https://img.shields.io/badge/-Yes-green)</p>|<p align="center">![](https://img.shields.io/badge/-Yes-green)</p>|<p align="center">![](https://img.shields.io/badge/-Yes-green)</p>|<p align="center">![](https://img.shields.io/badge/-No-red)</p>
+
 ## Usage
 
 |Object|Descpription|
