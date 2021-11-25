@@ -28,6 +28,7 @@ var scrollboss = {
     apply: function(value) {
         cl = this.getcl(value.color)
         width = value.width;
+        height = value.height;
         radius = value.radius;
         shadow = value.shadow;
         clbg = value.background;
@@ -53,6 +54,10 @@ var scrollboss = {
         if (width == '') {
             width = 10;
         }
+        
+         if (height == '') {
+            height = 10;
+        }
 
         if (radius == '') {
             radius = 10;
@@ -64,6 +69,7 @@ var scrollboss = {
         var final = `<style>
             ::-webkit-scrollbar {
             width: ` + width + `px;
+            height: ` + height + `px;
             }
             ::-webkit-scrollbar-track {
             box-shadow: inset 0 0 ` + shadow + `px grey; 
